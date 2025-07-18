@@ -37,15 +37,6 @@ developer = {
 
 I'm a passionate **Backend Developer** who loves crafting reliable, scalable, and maintainable server-side systems. With a strong foundation in **Python/Django** and **Java (Servlet & Maven)**, I focus on building APIs and backend architectures that drive modern web.
 
-<br>
-
-
-<br>
-<br>
-
-## 👨‍💻 About Me
-
-I'm a passionate **Backend Developer** who loves crafting reliable, scalable, and maintainable server-side systems. With a strong foundation in **Python/Django** and **Java (Servlet & Maven)**, I focus on building APIs and backend architectures that drive modern web.
 
 <br>
 <br>
