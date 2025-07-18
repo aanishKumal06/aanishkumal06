@@ -43,11 +43,12 @@ I'm a passionate **Backend Developer** who loves crafting reliable, scalable, an
 
 ## ✨ Fun Facts About Me
 
-🏞️ I'm from the stunning city of **Pokhara**, surrounded by lakes and the Himalayas
-🧩 I thrive on **problem-solving** — whether it's debugging code or real-life challenges 
-🌿 I have a deep love for **nature** — it keeps me grounded and inspired  
-📸 I enjoy **photography**, especially capturing landscapes and quiet moments  
-💬 I love **collaborating** on creative tech projects and connecting with like-minded people
+- 🏞️ I'm from the stunning city of **Pokhara**, surrounded by lakes and the Himalayas  
+- 🧩 I thrive on **problem-solving** — whether it's debugging code or real-life challenges  
+- 🌿 I have a deep love for **nature** — it keeps me grounded and inspired  
+- 📸 I enjoy **photography**, especially capturing landscapes and quiet moments  
+- 💬 I love **collaborating** on creative tech projects and connecting with like-minded people
+
 
 <br>
 
