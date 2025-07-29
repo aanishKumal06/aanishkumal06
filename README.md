@@ -6,9 +6,6 @@
   <a href="https://github.com/aanishkumal06" style="text-decoration: none;">
      <img src="https://komarev.com/ghpvc/?username=aanishkumal06&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
-  <a href="" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=ko-fi&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/anish-kumal" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
