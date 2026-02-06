@@ -18,7 +18,7 @@ developer = {
     "name": "Anish Kumal",
     "role": "Backend Developer",
     "tech_stack": {
-        "backend": ["Python", "Django", "Java (Servlet)", "REST APIs", "#C", ".NET"],
+        "backend": ["Python", "Django", "Java (Servlet)", "REST APIs", "C#", ".NET"],
         "frontend": ["HTML", "CSS", "JavaScript"],
         "database": ["PostgreSQL", "MySQL"]
     },
